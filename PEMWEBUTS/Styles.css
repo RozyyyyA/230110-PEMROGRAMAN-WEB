@@ -1,0 +1,253 @@
+<style>
+/* body */
+body {
+  background-color: #2B3A55;
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
+/* nav */
+nav {
+  font-weight: bold;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #2B3A55;
+  color: #e8c4c4;
+  padding: 0px 20px;
+  margin-left: 0px;
+  border-radius: 10px;
+}
+
+h2 {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+nav :hover {
+  color: white;
+}
+
+nav a {
+  background-color: #2B3A55;
+  color: #e8c4c4;
+  font-size: 20;
+  text-decoration: none;
+  margin: 0 0px;
+}
+
+/* ctr */
+.ctr {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.ctr h2 {
+  justify-content: left;
+  color: #f2e5e5;
+}
+
+
+/* form */
+.form-group {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #f2e5e5;
+  }
+
+  label button {
+    background-color: #e8c4c4;
+  }
+  
+  .form-control {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    font-family: sans-serif;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  select.form-control {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: url('https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-arrow-down-512.png') no-repeat center right;
+    background-size: 20px;
+    padding-right: 30px;
+  }
+  
+  .btn-primary {
+    display: inline-block;
+    background-color: #2B3A55;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    margin-left: 0;
+  }
+  
+  .btn-primary:hover {
+    background-color: #f2e5e5;
+  }
+
+/* table */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  max-height: 0vh ;
+  overflow: auto;
+  background-color: #e8c4c4;
+  margin: 0 auto;
+}
+
+th, td {
+  padding: 1px;
+  text-align: center;
+  border: 2px solid white;
+}
+
+tr:hover {
+  background-color: #f2e5e5;
+}
+
+thead {
+  background-color: #333;
+  color: #fff;
+}
+  
+th, td {
+  padding: 10px;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+th {
+  background-color: #2B3A55;
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+  border: 3px solid #ddd;
+  text-align: left;
+}
+
+td {
+  border: 3px solid #ddd;
+  padding: 10px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+a {
+  justify-content: center;
+  color: white;
+  text-decoration: none;
+}
+
+
+/* Style tombol filter */
+  button[type="submit"] {
+    background-color: #e8c4c4;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
+
+/* Style select status */
+  select[name="status"] {
+    padding: 8px;
+    border-radius: 4px;
+    border: none;
+    background-color: #f2f2f2;
+    margin-right: 10px;
+  }
+  
+  
+/* Style tombol update dan delete */
+  a {
+    background-color: #2B3A55;
+    color: #fff;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  
+  
+  /* Style baris akhir tabel */
+  tr.akhir {
+    background-color: #f2f2f2;
+  }
+  
+  /* Style baris tengah tabel */
+  tr.tengah {
+    background-color: #f2f2f2;
+  }
+  
+  /* Style button pada kolom status */
+  button {
+    border: none;
+    border-radius: 4px;
+    padding: 5px 10px;
+    color: #fff;
+    font-weight: bold;
+  }
+
+button:hover {
+    background-color: #444;
+}
+
+
+a.nav-link {
+    color: #fff;
+    text-decoration: none;
+}
+
+button {
+    background-color: #e8c4c4;
+    color: #fff;
+    padding: 8px 16px;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+    margin-left: 0px;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: #f2e5e5;
+}
+
+select {
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #ced4da;
+    margin-right: 10px;
+}
+
+/* copyright */
+h6 {
+  margin: 20px 20px;
+  color: #e8c4c4;
+  justify-content: center;
+  display: flex;
+}
+
+</style>
