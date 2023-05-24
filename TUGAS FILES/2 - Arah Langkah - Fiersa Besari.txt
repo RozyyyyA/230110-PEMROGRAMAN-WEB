@@ -1,0 +1,9 @@
+Kode Buku: 2
+Judul Buku: Arah Langkah
+Pengarang Buku: Fiersa Besari
+Tahun Terbit Buku: 2018
+Halaman Buku: 308
+Penerbit Buku: Media Kita
+Kategori Buku: Fiksi
+Cover Buku: covernovel/2_Fiersa Besari_Arah Langkah.jpeg
+

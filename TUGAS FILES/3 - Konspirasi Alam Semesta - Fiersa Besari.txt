@@ -1,0 +1,9 @@
+Kode Buku: 3
+Judul Buku: Konspirasi Alam Semesta
+Pengarang Buku: Fiersa Besari
+Tahun Terbit Buku: 2017
+Halaman Buku: 238
+Penerbit Buku: Media Kita
+Kategori Buku: Fiksi
+Cover Buku: covernovel/3_Fiersa Besari_Konspirasi Alam Semesta.jpg
+

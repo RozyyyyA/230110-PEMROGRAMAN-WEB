@@ -1,0 +1,36 @@
+Kode Buku: 1
+Judul Buku: Garis Waktu
+Pengarang Buku: Fiersa Besari
+Tahun Terbit Buku: 2016
+Halaman Buku: 212
+Penerbit Buku: Media Kita
+Kategori Buku: Romance
+Cover Buku: covernovel/1_Fiersa Besari_Garis Waktu.jpg
+
+Kode Buku: 2
+Judul Buku: Arah Langkah
+Pengarang Buku: Fiersa Besari
+Tahun Terbit Buku: 2018
+Halaman Buku: 308
+Penerbit Buku: Media Kita
+Kategori Buku: Fiksi
+Cover Buku: covernovel/2_Fiersa Besari_Arah Langkah.jpeg
+
+Kode Buku: 3
+Judul Buku: Konspirasi Alam Semesta
+Pengarang Buku: Fiersa Besari
+Tahun Terbit Buku: 2017
+Halaman Buku: 238
+Penerbit Buku: Media Kita
+Kategori Buku: Fiksi
+Cover Buku: covernovel/3_Fiersa Besari_Konspirasi Alam Semesta.jpg
+
+Kode Buku: 4
+Judul Buku: Tapak Jejak
+Pengarang Buku: Fiersa Besari
+Tahun Terbit Buku: 2019
+Halaman Buku: 316
+Penerbit Buku: Media Kita
+Kategori Buku: Fiksi
+Cover Buku: covernovel/4_Fiersa Besari_Tapak Jejak.jpeg
+

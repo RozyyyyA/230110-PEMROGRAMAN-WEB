@@ -1,0 +1,9 @@
+Kode Buku: 4
+Judul Buku: Tapak Jejak
+Pengarang Buku: Fiersa Besari
+Tahun Terbit Buku: 2019
+Halaman Buku: 316
+Penerbit Buku: Media Kita
+Kategori Buku: Fiksi
+Cover Buku: covernovel/4_Fiersa Besari_Tapak Jejak.jpeg
+

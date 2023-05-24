@@ -1,0 +1,9 @@
+Kode Buku: 1
+Judul Buku: Garis Waktu
+Pengarang Buku: Fiersa Besari
+Tahun Terbit Buku: 2016
+Halaman Buku: 212
+Penerbit Buku: Media Kita
+Kategori Buku: Romance
+Cover Buku: covernovel/1_Fiersa Besari_Garis Waktu.jpg
+
